@@ -30,6 +30,7 @@ function App() {
       </div>
       <p className="read-the-docs">
         Click on the Reflame, Vite and React logos to learn more
+        updated at 2022-12-24 17:07
       </p>
     </div>
   )
